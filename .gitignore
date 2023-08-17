@@ -5,3 +5,4 @@ ansible/playbooks/zabbix.yml
 ansible/common/files/id_rsa.pub
 ansible/ansible.cfg
 ansible/common/files/testweb.sh
+ansible/ansible
