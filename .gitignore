@@ -1,1 +1,7 @@
 ansible/hosts
+ansible/playbooks/redis.yml
+ansible/playbooks/script.yml
+ansible/playbooks/zabbix.yml
+ansible/common/files/id_rsa.pub
+ansible/ansible.cfg
+ansible/common/files/testweb.sh
