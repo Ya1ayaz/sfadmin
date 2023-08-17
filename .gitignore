@@ -3,4 +3,5 @@ ansible/playbooks/script.yml
 ansible/common/files/testweb.sh
 ansible/common/files/id_rsa.pub
 ansible/hosts
+ansible/ansible
 
